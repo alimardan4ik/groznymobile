@@ -1,0 +1,20 @@
+[
+    {
+      "color": "ff0000",
+      "dopname": "(X2)",
+      "maxonline": 1000,
+      "name": "BONUS",
+      "online": 162,
+      "wilson_host": "65.108.99.34",
+      "wilson_port": 2707
+    },
+    {
+      "color": "00FFff",
+      "dopname": "[X0]",
+      "maxonline": 0,
+      "name": "TEST",
+      "online": 0,
+      "wilson_host": "65.108.99.34",
+      "wilson_port": 2707
+    }
+]
