@@ -1,0 +1,12 @@
+[
+    {
+      "color": "FF0000",
+      "dopname": "BONUS",
+      "x2": true,
+      "maxonline": 1000,
+      "name": "BONUS",
+      "online": 198,
+      "host": "65.108.99.34",
+      "port": 2707
+    }
+  ]
