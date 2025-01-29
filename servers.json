@@ -1,0 +1,22 @@
+[
+    {
+      "action": true,
+      "color": "FFFF00",
+      "dopname": "(X2)",
+      "maxonline": 1000,
+      "name": "BONUS",
+      "online": 634,
+      "ip": "65.108.99.34",
+      "port": 2707
+    },
+    {
+      "action": false,
+      "color": "FFFFFF",
+      "dopname": "none",
+      "maxonline": 0,
+      "name": "TEST SERVER",
+      "online": 0,
+      "ip": "65.108.99.34",
+      "port": 2707
+    }
+  ]
